@@ -20,6 +20,7 @@ function ProductDetails() {
         <div className="col-md-6">
         <img src={product.pic} width="60%" />
         </div>
+     
         <div className="col-md-5">
         <p>{product.name}</p>
         <p >{product.price}</p>
